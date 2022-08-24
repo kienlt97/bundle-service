@@ -1,8 +1,4 @@
 noi dung a
 Kien update o master
 Master cap nhat nhe
-<<<<<<< HEAD
 Ben other cap nhat nhe
-=======
-Tao cung update ma
->>>>>>> f8584514db0223424cf789797e54875aaae7fe31
